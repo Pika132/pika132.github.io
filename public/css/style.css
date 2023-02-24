@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(HYDaLiShuF.ttf);
+ }
+  
+ h4 {
+    font-family: myFirstFont;
+    color:rgb(172, 2, 2)
+ }
